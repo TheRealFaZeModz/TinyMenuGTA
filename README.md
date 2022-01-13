@@ -14,10 +14,10 @@ I also do not take responsibility for what anybody else does with this code. Thi
 # More Info
 You can find other repo's related to this project posted on my github.
 
-# Credits
-2Much4u         - Original Base Source.
-Exile           - ASM Tutorials.
-BassHaxor       - PS3 Debugger Tutorials.
+Markup : * Credits
+* 2Much4u         - Original Base Source.
+* Exile           - ASM Tutorials.
+* BassHaxor       - PS3 Debugger Tutorials.
 BadLuckBrian    - PS3 SDK Tutorials.
 GoPro_2027      - Numerous occasions of tutorials live, Base Source Support, peer editing, socket tutorials, ps3 SDK tutorials.
 TheRouletteBoi  - Numerous occasions of tutorials live, peer editing, ps3 SDK Tutorials extensive amount of memory tutorials.
