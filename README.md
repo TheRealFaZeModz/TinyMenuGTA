@@ -31,8 +31,9 @@ You can find other repo's related to this project posted on my github.
 * HazyDex         - Contributing to the HEN Support on the final revision of TinyMenu v4.0.0+.
 * SkylineXL       - Teaching proper code porting across platforms.
 * Kryptus         - One of the great pioneers of the Grand Theft Auto V Modding Community.
-* John Valincius  - Authentication
+* John Valincius  - Authentication help.
 * TheDonBro       - One of the great pioneers of the Grand Theft Auto V Modding Community.
 * XBLToothPik     - Write ups on CSC made a world of a difference for someone that knew nothing about it.
 * RLZ / LTS Team  - Loads of inspiration, loved the in game login idea. Brilliant ideas over the years.
 * GTA Community   - Without you we wouldn't have made it this far.
+* Alexander Blade - NativeDB Research
