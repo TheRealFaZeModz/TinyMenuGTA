@@ -18,19 +18,19 @@ Markup : * Credits
 * 2Much4u         - Original Base Source.
 * Exile           - ASM Tutorials.
 * BassHaxor       - PS3 Debugger Tutorials.
-BadLuckBrian    - PS3 SDK Tutorials.
-GoPro_2027      - Numerous occasions of tutorials live, Base Source Support, peer editing, socket tutorials, ps3 SDK tutorials.
-TheRouletteBoi  - Numerous occasions of tutorials live, peer editing, ps3 SDK Tutorials extensive amount of memory tutorials.
-Weezy           - Advanced Arrays.
-Joren           - GTA Code Thread (NGU).
-PBModz          - Misc C++ tutorials for GTAV.
-Cane            - SPRX Security best practices, understanding RCE.
-Cameron         - SPRX Security best practices.
-OldSchoolModz   - Open Sourcing loads of data / examples on code for Playstation 3 and Xbox 360.
-HazyDex         - Contributing to the HEN Support on the final revision of TinyMenu v4.0.0+.
-SkylineXL       - Teaching proper code porting across platforms.
-Kryptus         - One of the great pioneers of the Grand Theft Auto V Modding Community.
-TheDonBro       - One of the great pioneers of the Grand Theft Auto V Modding Community.
-XBLToothPik     - Write ups on CSC made a world of a difference for someone that knew nothing about it.
-RLZ / LTS Team  - Loads of inspiration, loved the in game login idea. Brilliant ideas over the years.
-GTA Community   - Without you we wouldn't have made it this far.
+* BadLuckBrian    - PS3 SDK Tutorials.
+* GoPro_2027      - Numerous occasions of tutorials live, Base Source Support, peer editing, socket tutorials, ps3 SDK tutorials.
+* TheRouletteBoi  - Numerous occasions of tutorials live, peer editing, ps3 SDK Tutorials extensive amount of memory tutorials.
+* Weezy           - Advanced Arrays.
+* Joren           - GTA Code Thread (NGU).
+* PBModz          - Misc C++ tutorials for GTAV.
+* Cane            - SPRX Security best practices, understanding RCE.
+* Cameron         - SPRX Security best practices.
+* OldSchoolModz   - Open Sourcing loads of data / examples on code for Playstation 3 and Xbox 360.
+* HazyDex         - Contributing to the HEN Support on the final revision of TinyMenu v4.0.0+.
+* SkylineXL       - Teaching proper code porting across platforms.
+* Kryptus         - One of the great pioneers of the Grand Theft Auto V Modding Community.
+* TheDonBro       - One of the great pioneers of the Grand Theft Auto V Modding Community.
+* XBLToothPik     - Write ups on CSC made a world of a difference for someone that knew nothing about it.
+* RLZ / LTS Team  - Loads of inspiration, loved the in game login idea. Brilliant ideas over the years.
+* GTA Community   - Without you we wouldn't have made it this far.
