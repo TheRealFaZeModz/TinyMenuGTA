@@ -1,0 +1,99 @@
+Report Bugs Here : http://www.fazemodz.win/suggestion.php
+
+Thanks for choosing TinyMenu 
+
+~FaZeModz
+
+
+HEN RETIRED FOR NOW:
+<a class="btn bg-purple-400 btn-block btn-flat" href="TinyMenu_HEN.sprx"><i class="fa fa-download"></i> Download HEN SPRX (ORIGINAL BASE)</a>
+<a class="btn bg-purple-400 btn-block btn-flat" href="EBOOT_HEN.BIN"><i class="fa fa-download"></i> Download HEN EBOOT.BIN</a> 
+
+
+Change Log v2.2.0
+		added 
+		Player Options
+		-Host Kick 
+		-Clear Tast Toggle 
+		-Teleport Player Too me [VEHICLE]
+		-Launch Player Vehicle
+		-Kick Player From Vehicle
+		Self Options
+		-Weapons In Apartment
+		-First Person
+		-Mobile Radio
+		Vehicle Options
+		-Open / Close Doors
+		Vehicle ShortCuts
+		-Fix Vehicle [D-Pad Left]
+		-Website Music Update to Downloads Page
+		Fixed
+		PlayerOptions
+		-Give RP In Fun Options
+		Player Vehicle Options
+		-MaxOut Players Vehicle
+
+Change Log v2.0.0
+		Added
+		-Object Manager
+		-Object List
+		-Object Movement
+		-Vehicle Protection
+		-Menu ID 1997 Tiny Menu
+		-Owned Explosion To Player Options
+		-More Text Message Options to All Player Messages
+		-Updated GodMode (Impact Protection)
+		-PTFX Man To Player Options | Fun Menu
+		-Change Menu Color Too Settings Menu
+		-Menu BackRound Logo
+		-All Client Weather Too Weather Menu
+		Removed
+		-Control Protection *Buggy*
+		-FAKE Send Left Lobby message
+		-No Rag Doll 
+		-Delayed DriveRollerCoaster (Still Freezes)
+		Fixed
+		-Changed Around Some Player Options
+		-Fixed Lobby Notification Bug
+		-Give / Remove RP (Added On / Off Switch)
+		
+		
+Change lOg v3.0.0
+		<label>Added</label>
+		<br>
+		<br>
+		<li>UI UPDATE FOR ORIGINAL BASE</li>
+		<li>Updated Downloads Page</li>
+		<li>Fixed Talking Players</li>
+		<li></li>
+		<br>
+		<br>
+		<li>Stability UPDATE</li>
+		<li>Drop Kick Protection</li>
+		<li>Timed Out Protection</li>
+		<br>
+		<br>
+		<label>Open a Ticket and report bugs if any are found!</label>
+		
+		
+Change lOg v3.5.0
+<label>Added</label><br><li>Time to keys for less expensive costs on new customers</li><li>New Freeze Protection</li><li>Fixed Lag problems Original Base</li><br><br><label>Open a Ticket and report bugs if any are found!</label><br><label>~Faze Modz</label>
+		
+
+
+Change lOg v4.0.0
+		<label>Added</label>
+		<br>
+		<br>
+		<li>UI UPDATE FOR ORIGINAL BASE</li>
+		<li>Updated Downloads Page</li>
+		<li>Fixed Talking Players</li>
+		<li></li>
+		<br>
+		<br>
+		<li>Stability UPDATE</li>
+		<li>Drop Kick Protection</li>
+		<li>Timed Out Protection</li>
+		<br>
+		<br>
+		<label>Open a Ticket and report bugs if any are found!</label>

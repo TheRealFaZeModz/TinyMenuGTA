@@ -1,0 +1,267 @@
+﻿  prx.cpp
+SNCCL : warning 1641: PreCompiled Header definition mismatch: PCH file uses PCH header file "stdafx.h", current file uses header file <sys/dbg.h>
+  
+SNCCL : warning 632: the initial sequence of preprocessing directives is not compatible with those of precompiled header file "PS3_Debug\TinyMenu.pch"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\printf.h(890,6): warning 178: variable "l_iLen" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\special_dialog.h(234): warning 1634: switch statement is missing case labels
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\special_dialog.h(272,6): warning 178: variable "ret" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Natives.h(30,62): warning 942: missing return statement at end of non-void function "_GET_LABEL_TEXT"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz Defs.h(314,68): warning 1772: argument of type "float" is implicitly converted to parameter (5 of CREATE_OBJECT) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz Defs.h(789,9): warning 552: variable "null6" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz Defs.h(790,9): warning 552: variable "a6" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz Defs.h(791,9): warning 552: variable "b6" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz Defs.h(912,9): warning 552: variable "null6" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz Defs.h(913,9): warning 552: variable "a6" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz Defs.h(914,9): warning 552: variable "b6" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz Defs.h(1040,9): warning 552: variable "null6" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz Defs.h(1041,9): warning 552: variable "a6" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz Defs.h(1042,9): warning 552: variable "b6" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(247,5): warning 552: variable "funcadd" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(253,5): warning 552: variable "funcadd" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(295,106): warning 1772: argument of type "double" is implicitly converted to parameter (2 of APPLY_FORCE_TO_ENTITY) of type "BOOL"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(678): warning 942: missing return statement at end of non-void function "spawnClown"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(899,7): warning 178: variable "height" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(962,107): warning 1772: argument of type "float" is implicitly converted to parameter (14 of ATTACH_ENTITY_TO_ENTITY_PHYSICALLY) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(963,108): warning 1772: argument of type "float" is implicitly converted to parameter (14 of ATTACH_ENTITY_TO_ENTITY_PHYSICALLY) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(964,108): warning 1772: argument of type "float" is implicitly converted to parameter (14 of ATTACH_ENTITY_TO_ENTITY_PHYSICALLY) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(965,108): warning 1772: argument of type "float" is implicitly converted to parameter (14 of ATTACH_ENTITY_TO_ENTITY_PHYSICALLY) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(1004,84): warning 1772: argument of type "double" is implicitly converted to parameter (2 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS2) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(1004,89): warning 1772: argument of type "double" is implicitly converted to parameter (3 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS2) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(1200): warning 942: missing return statement at end of non-void function "scriptEventDetour"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(1218,10): warning 178: variable "cplayerinfo" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(1834,62): warning 1772: argument of type "float" is implicitly converted to parameter (2) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(1841,57): warning 1772: argument of type "float" is implicitly converted to parameter (2) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(1852,12): warning 69: integer conversion resulted in truncation
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(1909,26): warning 178: variable "IPADDR" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2032,75): warning 1772: argument of type "float" is implicitly converted to parameter (2 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2032,81): warning 1772: argument of type "float" is implicitly converted to parameter (3 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2032,87): warning 1772: argument of type "float" is implicitly converted to parameter (4 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2073,92): warning 1772: argument of type "float" is implicitly converted to parameter (2 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2073,98): warning 1772: argument of type "float" is implicitly converted to parameter (3 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2073,104): warning 1772: argument of type "float" is implicitly converted to parameter (4 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2078,85): warning 1772: argument of type "float" is implicitly converted to parameter (2 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2078,91): warning 1772: argument of type "float" is implicitly converted to parameter (3 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2078,98): warning 1772: argument of type "float" is implicitly converted to parameter (4 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2112): warning 942: missing return statement at end of non-void function "TropicBoat"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2132,109): warning 1772: argument of type "float" is implicitly converted to parameter (14 of ATTACH_ENTITY_TO_ENTITY_PHYSICALLY) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2620): warning 942: missing return statement at end of non-void function "scenariostesting"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2643): warning 942: missing return statement at end of non-void function "Load_Interior"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\mods.h(2652): warning 942: missing return statement at end of non-void function "ENABLE_IPL_INTERIOR"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(170): warning 942: missing return statement at end of non-void function "xorTrampoline"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(203): warning 942: missing return statement at end of non-void function "SendDataToSocket"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(215,8): warning 1070: returning pointer to local variable
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(224,8): warning 1070: returning pointer to local variable
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(234,8): warning 1070: returning pointer to local variable
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(362,9): warning 1067: conversion from integer to smaller pointer
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(364): warning 942: missing return statement at end of non-void function "writeMem"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(378): warning 942: missing return statement at end of non-void function "readMem"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(462): warning 942: missing return statement at end of non-void function "one_hook_stub_mflrr0"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(468): warning 942: missing return statement at end of non-void function "one_hook_stub_r170"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(558): warning 942: missing return statement at end of non-void function "one_hook_intermediate"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(648,5): warning 552: variable "err" was set but never used
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(651,5): warning 178: variable "ret" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(672,5): warning 178: variable "lastPercent" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(673,5): warning 178: variable "progress" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(674,5): warning 178: variable "delta" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(677,5): warning 178: variable "offset" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(729,6): warning 178: variable "headersExistOrAtAtartOfFile" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(730,8): warning 178: variable "header_size" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(731,6): warning 178: variable "buffed" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(776,9): warning 1070: returning pointer to local variable
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(819,5): warning 178: variable "lastPercent" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(820,5): warning 178: variable "progress" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(821,5): warning 178: variable "delta" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(824,5): warning 178: variable "offset" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(954,5): warning 178: variable "lastPercent" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(955,5): warning 178: variable "progress" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(956,5): warning 178: variable "delta" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\Socket.h(959,5): warning 178: variable "offset" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(223,8): warning 1070: returning pointer to local variable
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(476,5): warning 178: variable "value" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(534): warning 942: missing return statement at end of non-void function "NativeAddress"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(546,8): warning 1070: returning pointer to local variable
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(1229,31): warning 1772: argument of type "float" is implicitly converted to parameter (1 of CLEAR_AREA_OF_COPS) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(1229,41): warning 1772: argument of type "float" is implicitly converted to parameter (2 of CLEAR_AREA_OF_COPS) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(1229,51): warning 1772: argument of type "float" is implicitly converted to parameter (3 of CLEAR_AREA_OF_COPS) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(1229,61): warning 1772: argument of type "float" is implicitly converted to parameter (4 of CLEAR_AREA_OF_COPS) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(1235,87): warning 1772: argument of type "float" is implicitly converted to parameter (2 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(1235,96): warning 1772: argument of type "float" is implicitly converted to parameter (3 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(1235,105): warning 1772: argument of type "float" is implicitly converted to parameter (4 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(1329,2): warning 175: expression has no effect
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(1338,8): warning 178: variable "Loc" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\MenuUtils.h(1608,21): warning 69: integer conversion resulted in truncation
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\cscinjector.h(97,10): warning 178: variable "pos" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\cscinjector.h(98,10): warning 178: variable "nread" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\cscinjector.h(132,8): warning 1070: returning pointer to local variable
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\cscinjector.h(207,1): warning 112: statement is unreachable
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(310): warning 942: missing return statement at end of non-void function "Create_Map"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(331): warning 942: missing return statement at end of non-void function "Ttrap"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(431,60): warning 551: variable "fd" is used before its value is set
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(454,5): warning 237: controlling expression is constant
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(489,8): warning 118: non-void function "callcsc" should return a value
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(426,5): warning 178: variable "script" was declared but never referenced
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(578,53): warning 9: nested comment is not allowed
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(581,71): warning 9: nested comment is not allowed
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(817,15): warning 187: pointless comparison of unsigned integer with zero
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(827,22): warning 187: pointless comparison of unsigned integer with zero
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\New modz.h(832,24): warning 187: pointless comparison of unsigned integer with zero
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(132,8): warning 1070: returning pointer to local variable
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(424,96): warning 1772: argument of type "double" is implicitly converted to parameter (2 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(424,101): warning 1772: argument of type "double" is implicitly converted to parameter (3 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(424,106): warning 1772: argument of type "double" is implicitly converted to parameter (4 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(427,45): warning 1772: argument of type "float" is implicitly converted to parameter (2 of ADD_OWNED_EXPLOSION) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(427,56): warning 1772: argument of type "float" is implicitly converted to parameter (3 of ADD_OWNED_EXPLOSION) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(427,67): warning 1772: argument of type "float" is implicitly converted to parameter (4 of ADD_OWNED_EXPLOSION) of type "Any"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(421,2): warning 548: transfer of control bypasses initialization of:
+              variable "tmp" (declared at line 424)
+              variable "Coords2" (declared at line 426)
+              variable "Coords" (declared at line 438)
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(816,2): warning 548: transfer of control bypasses initialization of:
+              variable "activeLineIndexTime" (declared at line 819)
+              variable "h" (declared at line 820)
+              variable "m" (declared at line 822)
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(898): warning 1635: switch statement is missing case and default labels
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(1175,2): warning 548: transfer of control bypasses initialization of:
+              variable "pp" (declared at line 1186)
+              variable "c" (declared at line 1190)
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(1474): warning 1635: switch statement is missing case and default labels
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(1585,18): warning 516: pointless comparison of unsigned integer with a negative constant
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(254,1): warning 548: transfer of control bypasses initialization of:
+              variable "me" (declared at line 288)
+              variable "VehicleHandle" (declared at line 395)
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(1987): warning 942: missing return statement at end of non-void function "Hook"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(2055): warning 942: missing return statement at end of non-void function "malloc_stub"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(2063): warning 942: missing return statement at end of non-void function "malloc_stub1"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(2181): warning 942: missing return statement at end of non-void function "HAS_FORCE_CLEANUP_OCCURRED_hook"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(3844): warning 942: missing return statement at end of non-void function "dieloading"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(3849): warning 942: missing return statement at end of non-void function "die"
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(4267,3): warning 112: statement is unreachable
+  
+D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\GTAV_Native_Invoker\prx.cpp(4269,2): warning 112: statement is unreachable
+  
+  GTAV_Native_Invoker.vcxproj -> D:\Drew's Stuff\Tiny Menu\Tiny Ass Menu Source 5.0.0(Current)\Tiny Ass Menu Source 4.0.0\Tiny Ass Menu Source\PS3_Debug\TinyMenu.sprx
+  Cannot find the expected PRX Stub Library file: cellPrx_TinyMenu_stub.a
