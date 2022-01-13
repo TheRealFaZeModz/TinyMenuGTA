@@ -14,7 +14,7 @@ I also do not take responsibility for what anybody else does with this code. Thi
 # More Info
 You can find other repo's related to this project posted on my github.
 
-Markup : * Credits
+# Credits
 * 2Much4u         - Original Base Source.
 * Exile           - ASM Tutorials.
 * BassHaxor       - PS3 Debugger Tutorials.
