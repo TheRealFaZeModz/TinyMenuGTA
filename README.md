@@ -5,7 +5,7 @@ This is the visual studio project for Tiny Menu SPRX
 
 Tiny Menu SPRX for GTA V on the PS3 was started by me in the winter of 2016, originally a private project just for fun. It was first released as TinyMenu in 2017.The project was a great experience for me to really grip both programming and marketing. TinyMenu ran for 6 years before officially shutting down after GTA Online, January 13, 2022.
 
-I learned so much from the experience and knowledge and friends I gained developing paradise, I want to thank everyone involved along the way.
+I learned so much from the experience and knowledge and friends I gained developing TinyMenu, I want to thank everyone involved along the way.
 
 # Disclaimer
 A lot of the code in this is very very unorganized, this was a huge learning curve for me at the time. I had lots of help from friends (listed below). 
