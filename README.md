@@ -26,6 +26,7 @@ You can find other repo's related to this project posted on my github.
 * PBModz          - Misc C++ tutorials for GTAV.
 * Cane            - SPRX Security best practices, understanding RCE.
 * Cameron         - SPRX Security best practices.
+* JoMilk          - SPRX Security best practices.
 * OldSchoolModz   - Open Sourcing loads of data / examples on code for Playstation 3 and Xbox 360.
 * HazyDex         - Contributing to the HEN Support on the final revision of TinyMenu v4.0.0+.
 * SkylineXL       - Teaching proper code porting across platforms.
